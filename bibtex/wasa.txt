@@ -1,0 +1,9 @@
+@misc{wang2024sourceattributionlargelanguage,
+      title={Source Attribution for Large Language Model-Generated Data},
+      author={Jingtan Wang and Xinyang Lu and Zitong Zhao and Zhongxiang Dai and Chuan-Sheng Foo and See-Kiong Ng and Bryan Kian Hsiang Low},
+      year={2024},
+      eprint={2310.00646},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2310.00646},
+}

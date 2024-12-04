@@ -1,0 +1,34 @@
+@inproceedings{xu-etal-2024-position,
+    title = "Position Paper: Data-Centric {AI} in the Age of Large Language Models",
+    author = "Xu, Xinyi  and
+      Wu, Zhaoxuan  and
+      Qiao, Rui  and
+      Verma, Arun  and
+      Shu, Yao  and
+      Wang, Jingtan  and
+      Niu, Xinyuan  and
+      He, Zhenfeng  and
+      Chen, Jiangwei  and
+      Zhou, Zijian  and
+      Lau, Gregory Kang Ruey  and
+      Dao, Hieu  and
+      Agussurja, Lucas  and
+      Sim, Rachael Hwee Ling  and
+      Lin, Xiaoqiang  and
+      Hu, Wenyang  and
+      Dai, Zhongxiang  and
+      Koh, Pang Wei  and
+      Low, Bryan Kian Hsiang",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.695",
+    doi = "10.18653/v1/2024.findings-emnlp.695",
+    pages = "11895--11913",
+    abstract = "This position paper proposes a data-centric viewpoint of AI research, focusing on large language models (LLMs). We start by making a key observation that data is instrumental in the developmental (e.g., pretraining and fine-tuning) and inferential stages (e.g., in-context learning) of LLMs, and advocate that data-centric research should receive more attention from the community. We identify four specific scenarios centered around data, covering data-centric benchmarks and data curation, data attribution, knowledge transfer, and inference contextualization. In each scenario, we underscore the importance of data, highlight promising research directions, and articulate the potential impacts on the research community and, where applicable, the society as a whole. For instance, we advocate for a suite of data-centric benchmarks tailored to the scale and complexity of data for LLMs. These benchmarks can be used to develop new data curation methods and document research efforts and results, which can help promote openness and transparency in AI and LLM research.",
+}

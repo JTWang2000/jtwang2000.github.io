@@ -1,0 +1,6 @@
+@inproceedings{wang2024helpfulharmfuldatafinetuningfree,
+      title={Helpful or Harmful Data? Fine-tuning-free Shapley Attribution for Explaining Language Model Predictions},
+      author={Jingtan Wang and Xiaoqiang Lin and Rui Qiao and Chuan-Sheng Foo and Bryan Kian Hsiang Low},
+      booktitle = {Proceedings of the 40th International Conference on Machine Learning (ICML-24)},
+      year = {2024},
+}
