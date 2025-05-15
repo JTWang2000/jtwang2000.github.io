@@ -2,5 +2,5 @@
   title={NICE: Non-Differentiable Evaluation Metric-Based Data Selection for Instruction Tuning},
   author={Wang, Jingtan and Lin, Xiaoqiang and Qiao, Rui and Koh, Pang Wei and Foo, Chuan-Sheng and Low, Bryan Kian Hsiang},
   booktitle={ICML},
-  year={2024}
+  year={2025}
 }
