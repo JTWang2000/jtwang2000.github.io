@@ -1,0 +1,6 @@
+@inproceedings{qiao2025grouprobust,
+   title={Group-robust Sample Reweighting for Subpopulation Shifts via Influence Functions},
+   author={Rui Qiao and Zhaoxuan Wu and Jingtan Wang and Pang Wei Koh and Bryan Kian Hsiang Low},
+   booktitle={The Thirteenth International Conference on Learning Representations},
+   year={2025},
+}
